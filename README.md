@@ -8,4 +8,4 @@ New Changes : <br/>
 ## Commands
 |Command|Description|
 |--|--|
-|/generate_password| random generate 8 characters password included 1 uppercase, 1 lowercase, 1 numerical and 1 punctuation mark character.|
+|/generate_password|Random generate 8 characters included 1 uppercase, 1 lowercase, 1 numerical and 1 punctuation mark character.|
