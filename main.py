@@ -1,7 +1,7 @@
 from telegram.ext import Updater, CommandHandler
 from password_generator import PasswordGenerator
 
-token = '1299881537:AAGtYB-ZCFEf8j_UbH0v_8HYikmdVyUA6ug'
+token = 'token'
 
 def hello(update, context):
     update.message.reply_text('Hi, {}.'.format(update.message.from_user.first_name))
